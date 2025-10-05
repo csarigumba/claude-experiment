@@ -1,5 +1,13 @@
 # Changelog
 
+## 🚀 Version 1.1.0 - 2025-10-05
+
+### ✨ New Features
+- **Builder Pattern**: Added builder pattern implementation enabling step-by-step construction of complex objects with a fluent interface for better code readability [0ea6312]
+
+### 📚 Documentation
+- **Changelog Documentation**: Added comprehensive changelog to track project evolution and design pattern implementations [2f02fba]
+
 ## 🚀 Version 1.0.0 - 2025-10-05
 
 ### ✨ New Features
